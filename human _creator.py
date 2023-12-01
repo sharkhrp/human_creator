@@ -166,4 +166,4 @@ mitchel = lesbian("white", 8, True, "usa", 8000, "mitchel", 38, True)
 
 
 
-print(mitchel)
+print(mitchel
